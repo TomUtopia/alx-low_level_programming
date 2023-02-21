@@ -7,9 +7,9 @@
 int main(void)
 {
 	int num;
-	chat la;
+	char la;
 
-	for (num = 0; num < 10; numer++)
+	for (num = 0; num < 10; num++)
 	putchar((num % 10) + '0');
 
 	for (la = 'a'; la <= 'f'; la++)
